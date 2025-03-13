@@ -23,44 +23,44 @@ To create a Celeste mod that allows players to browse, download, and play custom
 
 ## Project Roadmap
 ### Phase 1: Research & Setup
-- [ ] Familiarize yourself with Celeste modding using Everest
-- [ ] Learn about Lönn and how maps are stored (.bin format)
-- [ ] Set up a GitHub repository for the project
-- [ ] Choose a web framework (e.g., Next.js, Django, Flask) and database (Firebase, PostgreSQL)
+-   Familiarize yourself with Celeste modding using Everest
+-   Learn about Lönn and how maps are stored (.bin format)
+-   Set up a GitHub repository for the project
+-   Choose a web framework (e.g., Next.js, Django, Flask) and database (Firebase, PostgreSQL)
 
 ### Phase 2: Map Compression System
-- [ ] Study the Lönn .bin file structure
-- [ ] Develop a way to convert maps into a compressed string format
-- [ ] Create a decompression function to restore maps from the string
-- [ ] Implement a testing tool for encoding/decoding maps
+-   Study the Lönn .bin file structure
+-   Develop a way to convert maps into a compressed string format
+-   Create a decompression function to restore maps from the string
+-   Implement a testing tool for encoding/decoding maps
 
 ### Phase 3: Website Development
-- [ ] Build user authentication (optional, but useful for commenting/liking)
-- [ ] Create an upload system for .bin files
-- [ ] Implement a database to store maps and user interactions
-- [ ] Develop map browsing, search, and rating features
-- [ ] Implement map code generation for easy sharing
-- [ ] Deploy the website
+-   Build user authentication (optional, but useful for commenting/liking)
+-   Create an upload system for .bin files
+-   Implement a database to store maps and user interactions
+-   Develop map browsing, search, and rating features
+-   Implement map code generation for easy sharing
+-   Deploy the website
 
 ### Phase 4: Celeste Mod Development
-- [ ] Create a basic Everest mod
-- [ ] Develop an in-game menu for browsing maps
-- [ ] Implement a system to download maps from the website
-- [ ] Display map details (title, creator, likes, comments)
-- [ ] Allow direct loading of downloaded maps
-- [ ] Add filtering and search features
+-   Create a basic Everest mod
+-   Develop an in-game menu for browsing maps
+-   Implement a system to download maps from the website
+-   Display map details (title, creator, likes, comments)
+-   Allow direct loading of downloaded maps
+-   Add filtering and search features
 
 ### Phase 5: Testing & Optimization
-- [ ] Test map encoding/decoding with different map sizes
-- [ ] Ensure seamless downloading and importing of maps
-- [ ] Optimize UI/UX for both the mod and the website
-- [ ] Perform stress tests on the website (handling many maps/users)
+-   Test map encoding/decoding with different map sizes
+-   Ensure seamless downloading and importing of maps
+-   Optimize UI/UX for both the mod and the website
+-   Perform stress tests on the website (handling many maps/users)
 
 ### Phase 6: Launch & Community Engagement
-- [ ] Release the mod and website
-- [ ] Share on Celeste modding forums and Discord
-- [ ] Gather feedback and fix bugs
-- [ ] Plan future updates (e.g., user profiles, leaderboards, challenges)
+-   Release the mod and website
+-   Share on Celeste modding forums and Discord
+-   Gather feedback and fix bugs
+-   Plan future updates (e.g., user profiles, leaderboards, challenges)
 
 ## Useful Tools & Links
 ### Modding & Development
