@@ -86,11 +86,10 @@ To create a Celeste mod that allows players to browse, download, and play custom
 
 ---
 ## License
-*(Specify an open-source license if applicable, e.g., MIT, GPL-3.0, etc.)*
 
 ## Contributing
-*(Add contribution guidelines if you want others to collaborate on the project.)*
 
 ## Contact
-*(Include your preferred method of contact or Discord handle for community support.)*
 
+
+This readme is auto generated
